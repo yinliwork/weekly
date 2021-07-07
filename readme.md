@@ -7,7 +7,7 @@
 
 记录每周值得分享的科技内容，周五发布。
 
-欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/ruanyf/weekly/issues) 。
+欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/yinliwork/weekly/issues) 。
 
 
 ## 2021
@@ -15,6 +15,7 @@
 **六月**
 
 - 第 1 期：[创刊](./weekly-1.md)
+- 第 2 期：[CSS3面试中的transition和transfrom属性与区别](./css3/weekly-2.md)
 
 # 分类
 ### 前沿技术
