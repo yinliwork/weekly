@@ -9,13 +9,41 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/yinliwork/weekly/issues) 。
 
-
 ## 2021
 
-**六月**
+**七月**
 
 - 第 1 期：[创刊](./weekly-1.md)
 - 第 2 期：[CSS3面试中的transition和transfrom属性与区别](./css3/weekly-2.md)
+- 第 3 期：[基础篇：弹性盒子（Flex）布局](./css3/weekly-3.md)
+- 第 4 期：[CSS飞入特效实现](./css3/weekly-4.md)
+- 第 5 期：那些年面试频繁被问到的animations动画详解
+- 第 6 期：display玩法一览
+- 第 7 期：秀你一脸的css小技巧
+- 第 8 期：垂直居中的方式
+- 第 9 期：css面试问题汇总
+
+**八月**
+
+- 
+
+**九月**
+
+- 
+
+**十月**
+
+- 
+
+  
+
+**十一月**
+
+- 
+
+**十二月**
+
+- 
 
 # 分类
 ### 前沿技术
